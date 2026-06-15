@@ -1,4 +1,4 @@
-# Ansible In One Shot — TrainWithShubham
+# Ansible Project
 
 Learn Ansible hands-on with real AWS infrastructure provisioned by Terraform.
 
